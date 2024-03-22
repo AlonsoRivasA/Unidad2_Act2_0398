@@ -1,3 +1,4 @@
+//Luis Alonso Rivas
 import 'package:flutter/material.dart';
 
 class Pantalla12_0398 extends StatelessWidget {
