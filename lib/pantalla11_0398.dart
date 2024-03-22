@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//Luis Alonso Rivas
+//Luis Alonso Rivass
 
 class Pantalla11_0398 extends StatelessWidget {
   const Pantalla11_0398({Key? key}) : super(key: key);

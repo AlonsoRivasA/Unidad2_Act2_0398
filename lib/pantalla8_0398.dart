@@ -1,4 +1,4 @@
-//Luis Alonso Rivas
+//Luis Alonso Rivass
 import 'package:flutter/material.dart';
 
 class Pantalla8_0398 extends StatelessWidget {
